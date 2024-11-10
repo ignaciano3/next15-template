@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    "usernamehw.errorlens",
+    "YoavBls.pretty-ts-errors",
+    "pflannery.vscode-versionlens",
+    "aaron-bond.better-comments",
+    "wix.vscode-import-cost",
+    "MariusAlchimavicius.json-to-ts",
+    "Gruntfuggly.todo-tree",
+    "vitest.explorer"
+  ]
+}
